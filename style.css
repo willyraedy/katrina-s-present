@@ -1,0 +1,12 @@
+.center {
+  text-align: center;
+}
+.birthday {
+  background-image: url('birthday.jpg');
+}
+.hidden {
+  display: none;
+}
+.display {
+  display: block;
+}
